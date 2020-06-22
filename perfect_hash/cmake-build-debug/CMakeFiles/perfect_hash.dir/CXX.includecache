@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/department.hpp
+sqlite3.h
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/sqlite3.h
+string
+-
+vector
+-
+iostream
+-
+sstream
+-
+
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/hash.hpp
+department.hpp
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/department.hpp
+vector
+-
+random
+-
+ctime
+-
+conio.h
+-
+
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/main.cpp
+department.hpp
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/department.hpp
+hash.hpp
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/hash.hpp
+iostream
+-
+
+C:/Users/User/Downloads/algorithms-master/algorithms-master/perfect_hash/sqlite3.h
+stdarg.h
+-
+
